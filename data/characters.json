@@ -1,0 +1,88 @@
+[
+    {
+        "Ner'zhul": {
+          "faction": "Horde (formerly), Scourge",
+          "role": "First Lich King",
+          "bio": "Ner'zhul was an orc shaman who became the first Lich King after being bound to the Frozen Throne by Kil'jaeden.",
+          "image": "assets/images/nerzhul.jpg"
+        },
+        "Arthas Menethil": {
+          "faction": "Scourge",
+          "role": "Second Lich King",
+          "bio": "Arthas was a prince of Lordaeron and paladin of the Silver Hand who fell from grace and merged with Ner'zhul to become the Lich King.",
+          "image": "assets/images/arthas1.jpg"
+        },
+        "Sylvanas Windrunner": {
+          "faction": "Forsaken",
+          "role": "Banshee Queen",
+          "bio": "Once a ranger-general of Silvermoon, Sylvanas was slain by Arthas and turned into a banshee. She later broke free and formed the Forsaken.",
+          "image": "assets/images/sylvanas.jpg"
+        },
+        "Jaina Proudmoore": {
+          "faction": "Alliance",
+          "role": "Archmage",
+          "bio": "Jaina is a powerful human mage and ruler of the city-state of Theramore. She has been a key figure in many conflicts, including the Third War and the recent faction war.",
+          "image": "assets/images/jaina.jpg"
+        },
+        "Thrall": {
+          "faction": "Horde",
+          "role": "Former Warchief",
+          "bio": "Thrall, also known as Go'el, was the former warchief of the Horde and a key figure in the events of Warcraft III and World of Warcraft.",
+          "image": "assets/images/thrall.jpg"
+        },
+        "Gul'dan": {
+          "faction": "Burning Legion, Horde",
+          "role": "Warlock",
+          "bio": "Gul'dan was a powerful orc warlock who played a key role in the corruption of the orcs and the opening of the Dark Portal.",
+          "image": "assets/images/guldan.jpg"
+        },
+        "Illidan Stormrage": {
+          "faction": "Illidari",
+          "role": "Demon Hunter",
+          "bio": "Illidan is a night elf who consumed the Skull of Gul'dan and gained demonic powers. He has been both an ally and enemy of Azeroth.",
+          "image": "assets/images/illidan.jpg"
+        },
+        "Varian Wrynn": {
+          "faction": "Alliance",
+          "role": "Former King of Stormwind",
+          "bio": "Varian was the high king of the Alliance and ruler of Stormwind. He played a key role in the faction war and the events of the Cataclysm.",
+          "image": "assets/images/varian.jpg"
+        },
+        "Anduin Wrynn": {
+          "faction": "Alliance",
+          "role": "King of Stormwind",
+          "bio": "Anduin is the son of Varian Wrynn and the current king of Stormwind. He is known for his pacifist nature and diplomatic skills.",
+          "image": "assets/images/anduin.jpg"
+        },
+        "Tyrande Whisperwind": {
+          "faction": "Alliance",
+          "role": "High Priestess of Elune",
+          "bio": "Tyrande is the high priestess of the moon goddess Elune and the leader of the night elves. She has been a key figure in many conflicts, including the War of the Ancients and the recent faction war.",
+          "image": "assets/images/tyrande.jpg"
+        },
+        "Malfurion Stormrage": {
+          "faction": "Alliance",
+          "role": "Archdruid",
+          "bio": "Malfurion is the archdruid of the night elves and the husband of Tyrande Whisperwind. He played a key role in the War of the Ancients and the recent faction war.",
+          "image": "assets/images/malfurion.jpg"
+        },
+        "Sargeras": {
+          "faction": "Burning Legion",
+          "role": "Dark Titan",
+          "bio": "Sargeras is the dark titan who created the Burning Legion and seeks to destroy all life in the universe. He was once a noble champion of order before being corrupted by the void.",
+          "image": "assets/images/sargeras.jpg"
+        },
+        "Kil'jaeden": {
+          "faction": "Burning Legion",
+          "role": "Deceiver",
+          "bio": "Kil'jaeden is one of the leaders of the Burning Legion and a key figure in the corruption of the orcs and the invasion of Azeroth.",
+          "image": "assets/images/kiljaeden.jpg"
+        },
+        "Archimonde": {
+          "faction": "Burning Legion",
+          "role": "Defiler",
+          "bio": "Archimonde is one of the leaders of the Burning Legion and a key figure in the invasion of Azeroth. He was defeated by the combined forces of the Alliance and Horde at the Battle of Mount Hyjal.",
+          "image": "assets/images/archimonde.jpg"
+        }
+    }
+]

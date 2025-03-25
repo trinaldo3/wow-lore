@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "question": "Who was the first Lich King?",
+        "options": ["Arthas Menethil", "Ner'zhul", "Kil'jaeden", "Medivh"],
+        "correct_answer": "Ner'zhul",
+        "lore_context": "Ner'zhul was the orc shaman who became the original Lich King after being bound to the Frozen Throne by Kil'jaeden.",
+        "img": "q1.jpeg",
+        "next_question_id": 2
+      },
+      {
+        "id": 2,
+        "question": "What is the name of the sword wielded by Arthas?",
+        "options": ["Doomhammer", "Ashbringer", "Frostmourne", "Shadowmourne"],
+        "correct_answer": "Frostmourne",
+        "lore_context": "Frostmourne was a cursed runeblade that stole the soul of its wielder and was key to Arthas becoming the Lich King.",
+        "img": "q2.jpeg",
+        "next_question_id": 3
+      },
+      {
+        "id": 3,
+        "question": "Which dragon aspect was corrupted by the Old Gods?",
+        "options": ["Ysera", "Nozdormu", "Malygos", "Deathwing"],
+        "correct_answer": "Deathwing",
+        "lore_context": "Deathwing, formerly known as Neltharion the Earth-Warder, was corrupted by the Old Gods and became the aspect of Death.",
+        "img": "q3.jpeg",
+        "next_question_id": 4
+      },
+      {
+        "id": 4,
+        "question": "What is the name of the orcish homeworld?",
+        "options": ["Draenor", "Azeroth", "Argus", "Outland"],
+        "correct_answer": "Draenor",
+        "lore_context": "Draenor is the original homeworld of the orcs, before it was shattered and became the Outland.",
+        "img": "q4.jpeg",
+        "next_question_id": 5
+      },
+      {
+        "id": 5,
+        "question": "Who is the leader of the Burning Legion?",
+        "options": ["Sargeras", "Kil'jaeden", "Archimonde", "Mannoroth"],
+        "correct_answer": "Sargeras",
+        "lore_context": "Sargeras is the dark titan who created the Burning Legion and seeks to destroy all life in the universe.",
+        "img": "q5.jpeg",
+        "next_question_id": 6
+      },
+      {
+        "id": 6,
+        "question": "What is the name of the night elf goddess of the moon?",
+        "options": ["Elune", "Cenarius", "Ysera", "Tyrande"],
+        "correct_answer": "Elune",
+        "lore_context": "Elune is the goddess of the moon and the primary deity worshipped by the night elves.",
+        "img": "q6.jpg",
+        "next_question_id": null
+      }
+]

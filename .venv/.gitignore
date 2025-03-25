@@ -1,0 +1,21 @@
+# macOS junk
+.DS_Store
+__MACOSX/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Logs and backups
+*.log
+*.tmp
+*.swp
+*.bak
