@@ -5,6 +5,7 @@ from gui.start_screen import StartScreen
 from gui.question_screen import QuestionScreen
 from gui.result_screen import ResultScreen
 from logic.question_manager import QuestionManager
+from gui.character_screen import CharacterScreen
 
 class GameWindow:
     def __init__(self):
@@ -68,6 +69,9 @@ class GameWindow:
         close_button = tk.Button(frame, text="Close", font=("Helvetica", 16), command=self.root.destroy)
         close_button.pack(pady=10)
 
+        learn_button = tk.Button(frame, text="Learn About WoW Characters", font=("Helvetica", 16), command=self.show_character_lore)
+        learn_button.pack(pady=10)
+
         self._switch_screen(frame)
 
     def _switch_screen(self, screen):
@@ -75,6 +79,9 @@ class GameWindow:
             self.current_screen.destroy()
         self.current_screen = screen
         self.current_screen.pack(fill="both", expand=True)
+
+    def show_character_lore(self):
+        self._switch_screen(CharacterScreen(self.root, self.show_summary))
 
     def run(self):
         self.root.mainloop()

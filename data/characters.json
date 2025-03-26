@@ -1,10 +1,9 @@
-[
     {
         "Ner'zhul": {
           "faction": "Horde (formerly), Scourge",
           "role": "First Lich King",
           "bio": "Ner'zhul was an orc shaman who became the first Lich King after being bound to the Frozen Throne by Kil'jaeden.",
-          "image": "assets/images/nerzhul.jpg"
+          "image": "assets/images/nerzhul.jpeg"
         },
         "Arthas Menethil": {
           "faction": "Scourge",
@@ -16,31 +15,31 @@
           "faction": "Forsaken",
           "role": "Banshee Queen",
           "bio": "Once a ranger-general of Silvermoon, Sylvanas was slain by Arthas and turned into a banshee. She later broke free and formed the Forsaken.",
-          "image": "assets/images/sylvanas.jpg"
+          "image": "assets/images/sylvanas.jpeg"
         },
         "Jaina Proudmoore": {
           "faction": "Alliance",
           "role": "Archmage",
           "bio": "Jaina is a powerful human mage and ruler of the city-state of Theramore. She has been a key figure in many conflicts, including the Third War and the recent faction war.",
-          "image": "assets/images/jaina.jpg"
+          "image": "assets/images/jaina.jpeg"
         },
         "Thrall": {
           "faction": "Horde",
           "role": "Former Warchief",
           "bio": "Thrall, also known as Go'el, was the former warchief of the Horde and a key figure in the events of Warcraft III and World of Warcraft.",
-          "image": "assets/images/thrall.jpg"
+          "image": "assets/images/thrall.jpeg"
         },
         "Gul'dan": {
           "faction": "Burning Legion, Horde",
           "role": "Warlock",
           "bio": "Gul'dan was a powerful orc warlock who played a key role in the corruption of the orcs and the opening of the Dark Portal.",
-          "image": "assets/images/guldan.jpg"
+          "image": "assets/images/guldan.jpeg"
         },
         "Illidan Stormrage": {
           "faction": "Illidari",
           "role": "Demon Hunter",
           "bio": "Illidan is a night elf who consumed the Skull of Gul'dan and gained demonic powers. He has been both an ally and enemy of Azeroth.",
-          "image": "assets/images/illidan.jpg"
+          "image": "assets/images/illidan.jpeg"
         },
         "Varian Wrynn": {
           "faction": "Alliance",
@@ -64,13 +63,13 @@
           "faction": "Alliance",
           "role": "Archdruid",
           "bio": "Malfurion is the archdruid of the night elves and the husband of Tyrande Whisperwind. He played a key role in the War of the Ancients and the recent faction war.",
-          "image": "assets/images/malfurion.jpg"
+          "image": "assets/images/malfurion.jpeg"
         },
         "Sargeras": {
           "faction": "Burning Legion",
           "role": "Dark Titan",
           "bio": "Sargeras is the dark titan who created the Burning Legion and seeks to destroy all life in the universe. He was once a noble champion of order before being corrupted by the void.",
-          "image": "assets/images/sargeras.jpg"
+          "image": "assets/images/sargeras.jpeg"
         },
         "Kil'jaeden": {
           "faction": "Burning Legion",
@@ -82,7 +81,6 @@
           "faction": "Burning Legion",
           "role": "Defiler",
           "bio": "Archimonde is one of the leaders of the Burning Legion and a key figure in the invasion of Azeroth. He was defeated by the combined forces of the Alliance and Horde at the Battle of Mount Hyjal.",
-          "image": "assets/images/archimonde.jpg"
+          "image": "assets/images/archimonde.jpeg"
         }
     }
-]
